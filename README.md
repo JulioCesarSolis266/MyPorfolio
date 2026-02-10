@@ -1,0 +1,1 @@
+Porfolio personal hecho con react y javascript. Proximamente Typescript.
