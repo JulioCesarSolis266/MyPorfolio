@@ -1,13 +1,36 @@
+import profileImage from "../assets/profile-image.jpg";
+
 export default function AboutMe() {
-    return (
-        <section className="about-me-section p-4">
-            <h2 className="text-3xl font-semibold mb-4 text-center">Sobre Mí</h2>
-            <p className="mb-4">
-                Soy un desarrollador Full-Stack Junior con experiencia en React.js y Node.js. Me apasiona crear aplicaciones web completas, enfocándome en la funcionalidad y el despliegue. Tengo un título de Técnico Superior en Programación, lo que me ha proporcionado una sólida base en desarrollo de software.
-            </p>
-            <p>
-                Me considero una persona proactiva, con ganas de aprender y crecer en el mundo del desarrollo web. Estoy siempre buscando nuevos desafíos y oportunidades para mejorar mis habilidades y contribuir a proyectos interesantes.
-            </p>
-        </section>
-    );
+  return (
+    <section className="bg-amber-50 py-20">
+      <h2 className="font-bold m-4 text-center text-3xl py-5">About Me</h2>
+
+      <div>
+        <img
+          src={profileImage}
+          alt="Profile"
+          className="w-48 h-48 rounded-full mx-auto object-cover m-10"
+        />
+      </div>
+
+      <div className="m-4 max-w-3xl mx-auto text-xl font-mono">
+        <p>
+          I’m a Junior Full-Stack Developer with experience in React.js and
+          Node.js, focused on building functional web applications from end to
+          end. I enjoy connecting the frontend with the backend and turning ideas
+          into real, working projects.
+        </p>
+
+        <br />
+
+        <p>
+          I hold a degree as a Higher Technician in Programming, which gave me a
+          strong foundation in programming logic and good development practices.
+          I continue learning constantly by building personal projects and
+          exploring new technologies. I consider myself proactive, responsible,
+          and always motivated to keep growing as a developer.
+        </p>
+      </div>
+    </section>
+  );
 }
