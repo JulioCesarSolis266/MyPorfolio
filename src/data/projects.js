@@ -14,7 +14,7 @@
       id:2,
       title: "Backend de finanzas personales",
       description: "API REST para gestión de ingresos y gastos.",
-      img: "https://www.zohowebstatic.com/sites/zweb/images/creator/app-deck/personal-finance-management-ss2.png",
+      img: "src/assets/financeManagerimg.jpg",
       stack: ["NestJS", "TypeScript", "PostgreSQL"],
       urlDeploy: null,
       urlRepoBackend: "https://github.com/JulioCesarSolis266/personal-finance-backend"
