@@ -8,15 +8,14 @@ import Contact from "./sections/Contact";
 
 function App() {
   return (
-    <>
-
-      <Hero />
-      <AboutMe />
-      <Skills />
-      <ProjectCard />
-      <Contact />
+    <div className="scroll-smooth">
+      <Hero id="hero" />
+      <AboutMe id="about" />
+      <Skills id="skills" />
+      <ProjectCard id="projects" />
+      <Contact id="contact" />
       <Footer />
-    </>
+    </div>
   );
 }
 

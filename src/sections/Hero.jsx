@@ -5,7 +5,7 @@ export default function Hero() {
     <>
       <Header />
 
-      <section className="relative min-h-screen">
+      <section id="hero" className="relative min-h-screen">
         {/* Fondo */}
         <div className="relative bg-[url('/src/assets/hero-image.jpg')] bg-cover bg-center md:bg-fixed min-h-screen flex items-center justify-center">
 

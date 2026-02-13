@@ -7,7 +7,7 @@ import { BiLogoVisualStudio } from "react-icons/bi";
 
 export default function Skills() {
   return (
-    <section className=" px-6">
+    <section id="skills" className=" px-6 scroll-mt-24">
       <h2 className="font-bold mb-12 text-center text-3xl p-20">Skills</h2>
 
       <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-4 max-w-6xl mx-auto font-mono">

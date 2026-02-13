@@ -2,7 +2,7 @@ import profileImage from "../assets/profile-image.jpg";
 
 export default function AboutMe() {
   return (
-    <section className="bg-amber-50 py-20">
+    <section id="about" className="bg-amber-50 py-20 scroll-mt-24">
       <h2 className="font-bold m-4 text-center text-3xl py-5">About Me</h2>
 
       <div>

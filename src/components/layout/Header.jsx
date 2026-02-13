@@ -15,11 +15,11 @@ export default function Header() {
         {/* Desktop Menu */}
         <nav className="hidden md:block">
           <ul className="flex gap-6">
-            <li><a href="#main" className="hover:text-gray-300">MAIN</a></li>
-            <li><a href="#about" className="hover:text-gray-300">ABOUT</a></li>
-            <li><a href="#skills" className="hover:text-gray-300">SKILLS</a></li>
-            <li><a href="#projects" className="hover:text-gray-300">PROJECTS</a></li>
-            <li><a href="#contact" className="hover:text-gray-300">CONTACT</a></li>
+            <li><a href="#hero" className="hover:text-gray-300 scroll-mt-24">MAIN</a></li>
+            <li><a href="#about" className="hover:text-gray-300 scroll-mt-24">ABOUT</a></li>
+            <li><a href="#skills" className="hover:text-gray-300 scroll-mt-24">SKILLS</a></li>
+            <li><a href="#projects" className="hover:text-gray-300 scroll-mt-24">PROJECTS</a></li>
+            <li><a href="#contact" className="hover:text-gray-300 scroll-mt-24">CONTACT</a></li>
           </ul>
         </nav>
 
