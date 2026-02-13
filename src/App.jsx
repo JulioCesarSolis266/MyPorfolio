@@ -8,7 +8,7 @@ import Contact from "./sections/Contact";
 
 function App() {
   return (
-    <div className="scroll-smooth">
+    <div>
       <Hero id="hero" />
       <AboutMe id="about" />
       <Skills id="skills" />
