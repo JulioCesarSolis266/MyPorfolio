@@ -13,7 +13,7 @@ export default function AboutMe() {
         />
       </div>
 
-      <div className="m-4 max-w-3xl mx-auto text-xl font-mono">
+      <div className="m-4 max-w-3xl mx-auto text-xl font-mono p-5">
         <p>
           I’m a Junior Full-Stack Developer with experience in React.js and
           Node.js, focused on building functional web applications from end to
