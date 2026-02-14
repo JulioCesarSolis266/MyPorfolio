@@ -16,7 +16,7 @@ export default function Hero() {
           <div className="relative z-10 text-white text-center px-6 max-w-4xl mx-auto">
             
             <p className="text-base sm:text-lg md:text-xl">
-              Hi there
+              Hi there!
             </p>
 
             <h2 className="mt-4 font-semibold leading-tight
