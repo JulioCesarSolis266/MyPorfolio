@@ -15,21 +15,15 @@ export default function AboutMe() {
 
       <div className="m-4 max-w-3xl mx-auto text-xl font-mono p-5">
         <p>
-          I’m a Junior Full-Stack Developer with experience in React.js and
-          Node.js, focused on building functional web applications from end to
-          end. I enjoy connecting the frontend with the backend and turning ideas
-          into real, working projects.
+          Junior Full-Stack Developer building end-to-end web applications with React.js and Node.js, covering user interfaces, REST APIs, authentication, SQL databases and cloud deployment.
         </p>
 
         <br />
 
         <p>
-          I hold a degree as a Higher Technician in Programming, which gave me a
-          strong foundation in programming logic and good development practices.
-          I continue learning constantly by building personal projects and
-          exploring new technologies. I consider myself proactive, responsible,
-          and always motivated to keep growing as a developer.
+          I hold a Higher Technician Degree in Programming and focus on writing clean, maintainable code, continuously improving through real-world projects.
         </p>
+
       </div>
     </section>
   );
