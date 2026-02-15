@@ -9,7 +9,7 @@ import financeManagerImg from "../assets/financeManagerImg.jpg";
         "Sistema de gestión de turnos con autenticación y panel de administración.",
       img: shiftManagementImg,
       stack: ["React", "Node", "Express", "PostgreSQL"],
-      urlDeploy: "https://manicuria-frontend.vercel.app/",
+      urlDeploy: "juliocesar-dev.vercel.app",
       urlRepoBackend: "https://github.com/JulioCesarSolis266/manicuria-backend",
     },
     {
