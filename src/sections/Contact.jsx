@@ -1,5 +1,6 @@
 import { useState } from "react";
 
+
 export default function Contact() {
   const [status, setStatus] = useState("");
   const [loading, setLoading] = useState(false);
@@ -11,6 +12,7 @@ export default function Contact() {
 
     const formData = new FormData(e.target);
 
+    
     try {
       const response = await fetch("https://formspree.io/f/mwvnvjbr", {
         method: "POST",
