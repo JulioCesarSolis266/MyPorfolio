@@ -4,9 +4,9 @@ import financeManagerImg from "../assets/financeManagerImg.jpg";
 const projects = [
   {
     id: 1,
-    title: "Gestor de turnos",
+    title: "Appointment Manager",
     description:
-      "Sistema de gestión de turnos con autenticación y panel de administración.",
+      "REST API for managing appointments with user administration panel",
     img: shiftManagementImg,
     stack: ["React", "Node", "Express", "PostgreSQL"],
     urlDeploy: "https://turnos-manager.vercel.app/",
@@ -14,9 +14,9 @@ const projects = [
   },
   {
     id: 2,
-    title: "Backend de finanzas personales",
+    title: "Personal Finance Manager",
     description:
-      "API REST para gestión de ingresos y gastos con estructura modular.",
+      "REST API for managing income and expenses with a modular structure",
     img: financeManagerImg,
     stack: ["Express", "Prisma", "PostgreSQL", "JWT", "Swagger"],
     urlDeploy: null,
