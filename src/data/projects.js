@@ -19,7 +19,7 @@ const projects = [
       "REST API for managing income and expenses with a modular structure",
     img: financeManagerImg,
     stack: ["Express", "Prisma", "PostgreSQL", "JWT", "Swagger"],
-    urlDeploy: null,
+    urlDeploy: "https://finapp-track.vercel.app/login",
     urlRepoBackend:
       "https://github.com/JulioCesarSolis266/personal-finance-backend",
   },
