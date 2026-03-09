@@ -61,13 +61,10 @@ export default function Skills() {
               <SiExpress className="inline mr-2" />
               Express.js
             </li>
+            <li>REST APIs</li>
             <li>
               <SiPrisma className="inline mr-2" />
               Prisma
-            </li>
-            <li>
-              <SiNestjs className="inline mr-2" />
-              NestJS
             </li>
           </ul>
         </div>

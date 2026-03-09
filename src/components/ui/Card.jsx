@@ -19,7 +19,7 @@ export default function Card({
           alt={title}
           className="w-full h-48 object-contain mb-4 rounded-md"
         />
-        {urlDeploy && <Button href={urlDeploy} text="Deploy" />}
+        {urlDeploy && <Button href={urlDeploy} text="Live Demo" />}
         {urlRepoBackend && <Button href={urlRepoBackend} text="Repository" />}
       </div>
     </div>
