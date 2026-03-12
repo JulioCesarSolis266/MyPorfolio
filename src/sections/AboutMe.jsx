@@ -15,15 +15,18 @@ export default function AboutMe() {
 
       <div className="m-4 max-w-3xl mx-auto text-xl font-mono p-5">
         <p>
-          Junior Full-Stack Developer building end-to-end web applications with React.js and Node.js, covering user interfaces, REST APIs, authentication, SQL databases and cloud deployment.
+          Full-Stack Developer building end-to-end web applications with
+          React.js and Node.js, covering user interfaces, REST APIs,
+          authentication, SQL databases and cloud deployment.
         </p>
 
         <br />
 
         <p>
-          I hold a Higher Technician Degree in Programming and focus on writing clean, maintainable code, continuously improving through real-world projects.
+          I hold a Higher Technician Degree in Programming and focus on writing
+          clean, maintainable code, continuously improving through real-world
+          projects.
         </p>
-
       </div>
     </section>
   );
