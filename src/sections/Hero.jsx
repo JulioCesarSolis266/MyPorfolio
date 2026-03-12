@@ -21,7 +21,7 @@ export default function Hero() {
             >
               I’m <span className="font-bold">Julio César Solis</span>
               <span className="block mt-2 text-lg sm:text-xl md:text-2xl font-normal">
-                Junior Full-Stack Developer (React.js + Node.js)
+                Full-Stack Developer (React.js + Node.js)
               </span>
             </h2>
 
