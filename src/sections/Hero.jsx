@@ -7,7 +7,7 @@ export default function Hero() {
 
       <section id="hero" className="relative min-h-screen">
         {/* Fondo */}
-        <div className="relative bg-[url('/hero-image2.jpeg')] bg-cover bg-center md:bg-fixed min-h-screen flex items-center justify-center">
+        <div className="relative bg-[url('/Hero-image2.jpeg')] bg-cover bg-center md:bg-fixed min-h-screen flex items-center justify-center">
           {/* Overlay */}
           <div className="absolute inset-0 bg-black/20"></div>
 
