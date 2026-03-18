@@ -74,14 +74,14 @@ export default function Hero() {
               <a
                 href="/JulioCesarSolis-resume.pdf"
                 download
-                className="px-6 py-3 bg-white text-black text-base font-semibold rounded-lg hover:bg-gray-200 transition"
+                className="px-5 py-2.5 bg-white text-black text-sm sm:text-base font-semibold rounded-lg hover:bg-gray-200 transition"
               >
                 Download CV
               </a>
 
               <a
                 href="#projects"
-                className="px-6 py-3 border border-white text-base font-semibold rounded-lg hover:bg-white hover:text-black transition"
+                className="px-5 py-2.5 border border-white text-sm sm:text-base font-semibold rounded-lg hover:bg-white hover:text-black transition"
               >
                 View Projects
               </a>
